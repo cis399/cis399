@@ -1,0 +1,18 @@
+downloaded http://mirrors.usc.edu/pub/linux/distributions/centos/6.4/isos/x86_64/CentOS-6.4-x86_64-bin-DVD1to2.torrent from http://mirrors.usc.edu/pub/linux/distributions/centos/6.4/isos/x86_64/ using BitTorrent.
+
+created DVDs from relulting .ISO files
+   CentOS-6.4-x86_64-bin-DVD1 burned to DVD labeled "CentOS 6.4 x86_64 bin DVD 1/2" (DVD1)
+   CentOS-6.4-x86_64-bin-DVD2 burned to DVD labeled "CentOS 6.4 x86_64 bin DVD 2/2" (DVD2)
+   
+turn on computer and wait for "xyz" message
+
+insert DVD1 and close tray
+
+press "F1" (?) key to boot from DVD
+
+
+
+
+
+
+   
